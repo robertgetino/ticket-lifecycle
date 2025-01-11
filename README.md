@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/robertgetino/ticket-lifecycle/blob/7eaf0ce0294c52aab67199c42d371fca87c98e54/osTicket%201.png" height="80%" width="80%" alt="Disk Sanitization Steps"> <img src="https://github.com/robertgetino/ticket-lifecycle/blob/b3af9adc7646fae2076442b1648665f80cab27a5/osTicket%202.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In Step 1, I change the SysAdmins Department to a Top Level Department. I then delete the Maintenance Department and do not archive.
+A ticket is created for the network system is completely down for the company. The customer, Karen, writes this to the help desk. I log in as the admin and see the ticket go through the osTicket system. I open up the ticket and observe the details and specifics about the ticket such as the type of SLA, department and the priority level. Next, I assign it to one of the agents, in this case, Jane Smith. She then can view the ticket and update it with comments as well as steps that she takes to address the issue. In this case, the company just needed a new router. Jane is able to close the ticket as "Resolved".
 </p>
 <br />
 
@@ -38,13 +38,5 @@ In Step 1, I change the SysAdmins Department to a Top Level Department. I then d
 </p>
 <p>
 In Step 2 of the project, I create a ticket for a customer stating that the mobile banking system is down. In this instance, the priority is normal and is assigned to the Support Department. Therefore, the ticket should only take about an hour to complete and set to the Sysadmins property.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-In the last step of this project, I create another ticket describing that the CFO's laptop will not turn on and this is considered also a normal priority and I describe what the customer did in order to attempt to troubleshoot the issue.
 </p>
 <br />

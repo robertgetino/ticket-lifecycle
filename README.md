@@ -34,9 +34,9 @@ A ticket is created for the network system is completely down for the company. T
 <br />
 
 <p>
-<img src="https://github.com/robertgetino/ticket-lifecycle/blob/ac59dcfa2bb7ffe8e394a8b93e02c3247db57850/osTicket%203.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://github.com/robertgetino/ticket-lifecycle/blob/ac59dcfa2bb7ffe8e394a8b93e02c3247db57850/osTicket%203.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/robertgetino/ticket-lifecycle/blob/ac59dcfa2bb7ffe8e394a8b93e02c3247db57850/osTicket%203.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://github.com/robertgetino/ticket-lifecycle/blob/ec6b57f0fdad5d63d071f2c104f7406492144438/osTicket%204.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In Step 2 of the project, I create a ticket for a customer stating that the mobile banking system is down. In this instance, the priority is normal and is assigned to the Support Department. Therefore, the ticket should only take about an hour to complete and set to the Sysadmins property.
+Very similarly to the previous ticket above, Karen, the end user, creates another ticket that the "HR department needs a software update". She creates a ticket on osTicket and the ticket gets sent to the administrator, which is me. I then assign it to another agent, John Smith, who can also view and edit the ticket as it progresses. John is able to remotely log into all of the HR department computers in order to update the software. He uses a provided administrator username and password. After each computer is updated, John also tests them to make sure there are no other issues, and there aren't. John closes the ticket as "Resolved".
 </p>
 <br />

@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/robertgetino/ticket-lifecycle/blob/7eaf0ce0294c52aab67199c42d371fca87c98e54/osTicket%201.png" height="80%" width="80%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In Step 1, I change the SysAdmins Department to a Top Level Department. I then delete the Maintenance Department and do not archive.

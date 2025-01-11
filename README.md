@@ -34,7 +34,7 @@ A ticket is created for the network system is completely down for the company. T
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/robertgetino/ticket-lifecycle/blob/ac59dcfa2bb7ffe8e394a8b93e02c3247db57850/osTicket%203.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://github.com/robertgetino/ticket-lifecycle/blob/ac59dcfa2bb7ffe8e394a8b93e02c3247db57850/osTicket%203.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In Step 2 of the project, I create a ticket for a customer stating that the mobile banking system is down. In this instance, the priority is normal and is assigned to the Support Department. Therefore, the ticket should only take about an hour to complete and set to the Sysadmins property.
